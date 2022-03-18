@@ -1,3 +1,7 @@
+<!-- ![Unicorne PCB](https://github.com/jwav/unicorne/blob/main/unicorne/pcb-snapshot.png) -->
+<!----> <img src="https://github.com/jwav/unicorne/blob/main/unicorne/pcb-3d-snapshot.png" height="200" /> <!---->
+<!-- <img src="https://github.com/jwav/unicorne/blob/main/unicorne/unicorne-logo-drawn.png" height="100" /> -->
+
 # unicorne
 a rehash of foostan's corne, but only with 1u keys. A uniform corne.
 
